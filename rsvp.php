@@ -27,15 +27,12 @@
 						<li>
 							<a href="info.html"><img src="images/info.png"/>DETAILS</a>
 						</li>
-						<li>
-						<a href="#"><img src="images/reg.png"/>REGISTRY</a>
-						</li>
 					</ul>
 				</div> <!-- END topnav -->
 
 				<div class="invert">
 					<div id="title">
-						<h1> Fred & Ginger </h1>
+						<h1> Fred &amp; Ginger </h1>
 						<h2> Répondez S'Il Vous Plait </h2>
 					</div> <!-- END Title -->
 				</div> <!-- END invert -->
@@ -97,7 +94,7 @@
 			<footer class="wrapper clearfix">
 				<div class="footbg">
 					<p class="left"> We are excited. We hope you can make it! </p>
-					<p class="right"> Website handmade by <a href="http://www.fredastaire.com"> Fred</a>. Fixed by <a href="http://www.gingerrogers.com/"> Ginger</a>.</p>
+					<p class="right"> Website handmade by <a href="http://www.ajfarkas.com"> AJ</a>. Fixed by <a href="http://www.sarahmadden.com"> Sarah</a>.</p>
 				</div> <!-- END footbg -->
 			</footer>
 	</body>
